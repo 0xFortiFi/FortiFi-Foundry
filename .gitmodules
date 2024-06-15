@@ -1,0 +1,3 @@
+[submodule "FortiFi-Tests/lib/openzeppelin-contracts"]
+	path = FortiFi-Tests/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
