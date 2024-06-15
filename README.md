@@ -13,7 +13,11 @@ This repository contains all of the contracts related to the FortiFi Vaults Ecos
 
 POC tests are moved to the test-poc folder after use so that users don't need to wait for multiple tests to run when they are only testing a specific scenario.
 
-To get started, clone the repo and follow the Foundry instructions below:
+To get started, clone the repo and install the below dependencies:
+
+```forge install openzeppelin/openzeppelin-contracts@v4.5.0```
+
+```forge install foundry-rs/forge-std```
 
 ## Foundry
 
